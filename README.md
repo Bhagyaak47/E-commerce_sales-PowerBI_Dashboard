@@ -7,6 +7,7 @@ Project Learnings:-
 -Created connections,join new tables,calculations to manipulate data and enable user-driven parametrs for visualizations
 -Used different types of customized visualization (bar chart,pie chart,donut chart,clustered bar chart,scatter chart,area chart,
 map,slicers,etc)
+![image](https://github.com/Bhagyaak47/E-commerce_sales-PowerBI_Dashboard/assets/152842490/f7faf1e5-2881-42fc-819b-16779b04b69f)
 
 Key Insights:- 
 - The Top 4States that have made the maximum profit are Madhya Pradesh,Maharashtra,Uttar Pradesh and Delhi.
